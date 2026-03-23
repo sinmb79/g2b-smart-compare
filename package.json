@@ -12,6 +12,7 @@
     "es:init": "npx tsx scripts/es-init.ts",
     "scores:recalc": "npx tsx scripts/recalc-scores.ts",
     "price:fetch": "npx tsx scripts/price-fetch.ts",
+    "api:ingest": "npx tsx scripts/api-ingest.ts",
     "typegen": "next typegen"
   },
   "dependencies": {
